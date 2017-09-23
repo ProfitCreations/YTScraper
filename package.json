@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/ProfitCreations/YTScraper.git",
   "author": "Luis Pinheiro <profitcreations@live.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "electron": "^1.7.6",
+    "jquery": "^3.2.1",
+    "nightmare": "^2.10.0",
+    "puppeteer": "^0.10.2"
+  }
 }
